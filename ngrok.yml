@@ -1,2 +1,10 @@
 version: "2"
 authtoken: 2bqOOA9IhnquGYmDCQdgCEcuZBK_6jRuRMowAeGx4Etva8LZt
+
+tunnels :
+  web1 :
+    proto : http
+    addr : 8080
+  web2 :
+    proto : http
+    addr : 8181

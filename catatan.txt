@@ -1,0 +1,6 @@
+ Menjalankan Tunnel 
+
+ Ketik command di terminal 
+ "ngrok start (nama web)"
+ contoh jika 1 web : "ngrok start web1"
+ contoh jika 2 web : "ngrok start web1 web2" // tinggal spasi terus nama web ke 2
